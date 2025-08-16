@@ -24,7 +24,7 @@ A simple web application for managing tasks, built with Laravel.
 
     ```bash
     git clone https://github.com/GOATCHERKI/TasksManagerProject.git
-    cd Tasks-Manager
+    cd TasksManagerProject
     ```
 
 2. **Install PHP dependencies:**
